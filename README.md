@@ -1,2 +1,2 @@
 # Conexiuni
-Documentele pentru concursul Conexiuni, începând cu ediția 2019.
+Documentele pentru unele ediții ale Concursului de Electronică Conexiuni.
